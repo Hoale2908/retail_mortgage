@@ -1,10 +1,11 @@
 # Loan-To-Value and Retail Mortgage Loan Default
 
-## Project objective: 
-- Assess the quality of the dataset and make modifications as needed.
-- Assess the impact of the Loan-To-Value (LTV) ratio on the Probability of Default of mortgage loan applicants.
 
-![alt text](http://url/to/img.png)
+![Mortgage](/tierra-mallorca-JXI2Ap8dTNc-unsplash-2.jpg "Title Text")
+
+## Project objective:
+Assess the impact of the Loan-To-Value (LTV) ratio on the Probability of Default of mortgage loan applicants.
+
 
 ## 1. Variables not requiring any modifications:
 
